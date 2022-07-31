@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Python & Java**
 
-- 🤝 I’m looking for business partner for **Launcing PBX Service in US & Canada**
+- 🤝 I’m looking for business partner for **Launching PBX Service in US & Canada**
 
 - 👨‍💻 All of my projects are available at [me.shadikur.com](https://me.shadikur.com)
 
