@@ -10,17 +10,13 @@
 
 - 🌱 I’m currently learning **Advanced Python & Java**
 
-- 🤝 I’m looking for business partner for **Launching PBX Service in US & Canada**
-
-- 👨‍💻 All of my projects are available at [me.shadikur.com](https://me.shadikur.com)
-
-- 📝 I regularly write articles on [me.shadikur.com/blog](https://me.shadikur.com/blog)
+- 👨‍💻 All of my projects are available at [github.com/shadikur](https://github.com/shadikur/)
 
 - 💬 Ask me about **Automation, Softswitches (Asterisk/Freeswitch), Microcontroller, Telephony System, IP PBX Solutions, Solidworks CAD and Many more**
 
 - 📫 How to reach me **me@shadikur.com**
 
-- 📄 Know about my experiences [me.shadikur.com](https://me.shadikur.com)
+- 📄 Know about my experiences [at my LinkedIn](https://www.linkedin.com/in/shadikur/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
