@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Microsoft Teams & Opensips Integration](https://github.com/shadikur/opensips/)
 
-- 🌱 I’m currently learning **Advanced Python & Java**
+- 🌱 I’m currently learning **Advanced Python visualisation & Java FX**
 
 - 👨‍💻 All of my projects are available at [github.com/shadikur](https://github.com/shadikur/)
 
