@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadikur&theme=dark_lover&column=-1" alt="shadikur" /></a> </p>
 
-- 🔭 I’m currently working on [Microsoft Teams & Opensips Integration](https://github.com/shadikur/opensips/)
+- 🔭 I’m currently working on API Based Reminder application for the accountants
 
-- 🌱 I’m currently learning **Advanced Python visualisation & Java FX**
+- 🌱 I’m currently learning **Elctron applications**
 
 - 👨‍💻 All of my projects are available at [github.com/shadikur](https://github.com/shadikur/)
 
