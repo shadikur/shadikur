@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/shadikur](https://github.com/shadikur/)
 
-- 💬 Ask me about **Automation, Softswitches (Asterisk/Freeswitch), Microcontroller, Telephony System, IP PBX Solutions, Solidworks CAD and Many more**
+- 💬 Ask me about **Automation, Softswitches (Asterisk/Freeswitch), Microcontroller, Telephony System, IP PBX Solutions, Solidworks CAD, Java, NodeJS, React JS and Many more**
 
 - 📫 How to reach me **me@shadikur.com**
 
