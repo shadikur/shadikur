@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadikur!</h1>
-<h3 align="center">I am Mechatronics System Engineer from Germany.</h3>
+<h3 align="center">I am a Fullstack Engineer from Germany.</h3>
 <h4 align="center">(Specialised in Computers, Aeropace, Electronics, Web & Machines)</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadikur&label=Profile%20views&color=0e75b6&style=flat" alt="shadikur" /> </p>
